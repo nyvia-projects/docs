@@ -7,6 +7,8 @@ The project encompasses a sophisticated home network infrastructure integrated w
 
 ### Network Topology and Service details will be updated soon
 
+#### If you'd like to chat or collaborate, please reach me at friend@nyvia-projects.com 
+
 ## Servers currently being built
 ### Hypervisor host
 Pretty capable server that I would like to virtualize with proxmox hypervisor and host FileCloud on my zfs NAS built on TrueNAS, as well as Home Media Server(Jellyfin).
