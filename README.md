@@ -21,3 +21,6 @@ KVM over IP solution
 ## Services currently being worked on
 - Making NextCloud, vscode-server public facing along with one of my Pi-hole DNS servers
 - Hosting guacamole on either AWS or DigitalOcean to allow VNC and RDP to my servers
+
+## Other
+- **Developing an securing [nyvia.io](https://nyvia.io)**
