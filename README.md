@@ -1,4 +1,8 @@
 # Nyvia Projects
+
+An assortment of custom software and IT projects, including tailored applications, educational content, and a network lab with specified functionalities.
+
+### Nyvia Projects(LAB)
 The project encompasses a sophisticated home network infrastructure integrated with DNS servers, cloud storage, VPN services, password management system, an IDE, as well as communication and search capabilities. Lab facilitates local deployment and testing of all tailored applications and open-source initiatives. Key services are deployed across renowned cloud platforms like AWS and DigitalOcean, secured by VPN tunnels.
 
 - Hardware used: Protectli Vault, Mini PCs, SSDs, Raspberry Pi, Network Switch, Access Point
@@ -16,19 +20,19 @@ I've been gathering valuable coding resources and notes since 2015 and plan to c
 
 If you'd like to chat or collaborate, please reach me at friend@nyvia-projects.com 
 
-### Servers currently being build
-- **Hypervisor host**
+## Servers currently being build
+**Hypervisor host**
 
-        Pretty capable server that I would like to virtualize with proxmox hypervisor and 
-        host FileCloud on my zfs NAS built on TrueNAS, as well as Home Media Server(Jellyfin).
+Pretty capable server that I would like to virtualize with proxmox hypervisor and 
+host FileCloud on my zfs NAS built on TrueNAS, as well as Home Media Server(Jellyfin).
 
-    Hardware:
-    - Ryzen 5600G on B550 motherboard with 16GB RAM
-    - 4x 2TB SATA SSDs 
+Hardware:
+- Ryzen 5600G on B550 motherboard with 16GB RAM
+- 4x 2TB SATA SSDs 
 
-- **PiKVM**  
+**PiKVM**
 
-        KVM over IP solution
+KVM over IP solution
 
 ## Services currently being worked on
 - Making NextCloud, vscode-server public facing along with one of my Pi-hole DNS servers
