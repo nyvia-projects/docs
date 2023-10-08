@@ -33,12 +33,9 @@ I've been gathering valuable coding resources and notes since 2015 and plan to c
   - Innovative research platform for CSU, Northridge.
   - Deployed in the cloud([DigitalOcean](https://www.digitalocean.com/)).
   - [(more here)](https://github.com/techmetrica)
-  
-- Started working on a CLI package manager app
-  - For now aiming to simply share docker-compose and gpg files through web server
-  - At some point hopping to allow to download and manage custom software packages
-  - Might append my old chat(nychat) to this
-  - Written in Go
+
+- **Developing [nyps](https://github.com/nyvia-projects/nyps-v0)**
+  - CLI package manager and utility tool built with Go
 
 
 ## Notes and my honest opinions 
