@@ -20,6 +20,12 @@ The project encompasses a sophisticated home network infrastructure integrated w
 - Freelance IT and Software services advertisement
 - Initially built with React.js, but now Next.js 13
 
+#### **Sharing knowledge through [nyvia-academy](https://github.com/nyvia-projects/nyvia-academy)**
+
+- Public repository with personal notes on various CS and IT concepts
+- Taken throughout obtaining my bachelors and coding journey since 2015
+- Markdown on GitHub for now, but soon a website
+
 #### **Bringing [Techmetrica](https://techmetrica.org) to life**
 
 - Innovative research platform for CSU, Northridge
@@ -30,12 +36,6 @@ The project encompasses a sophisticated home network infrastructure integrated w
 
 - CLI package manager and utility tool built with Go
 - Mastering wonderful golang
-
-#### **Sharing knowledge through [nyvia-academy](https://github.com/nyvia-projects/nyvia-academy)**
-
-- Public repository with personal notes on various CS and IT concepts
-- Taken throughout obtaining my bachelors and coding journey since 2015
-- Markdown on GitHub for now, but soon a website
 
 ## News and Updates
 
