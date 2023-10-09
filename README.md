@@ -14,6 +14,8 @@ The project encompasses a sophisticated home network infrastructure integrated w
 
 ## Active Projects
 
+Projects can be tracked in [here](https://github.com/users/nyvia-projects/projects/1).
+
 #### **Building and shining through [nyvia.io](https://nyvia.io)**
 
 - Personal portfolio
@@ -22,7 +24,7 @@ The project encompasses a sophisticated home network infrastructure integrated w
 
 #### **Sharing knowledge through [nyvia-academy](https://github.com/nyvia-projects/nyvia-academy)**
 
-- Public repository with personal notes on various CS and IT concepts
+- Public repository with personal notes on various CS and IT topics
 - Taken throughout obtaining my bachelors and coding journey since 2015
 - Markdown on GitHub for now, but soon a website
 
