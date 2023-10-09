@@ -12,9 +12,9 @@ The project encompasses a sophisticated home network infrastructure integrated w
 
 #### If you'd like to chat or collaborate, please reach me at [friend@nyvia-projects.com](mailto:friend@nyvia-projects.com)
 
-## Active Projects
+Projects can be tracked [here](https://github.com/users/nyvia-projects/projects/1).
 
-Projects can be tracked in [here](https://github.com/users/nyvia-projects/projects/1).
+## Active Projects
 
 #### **Building and shining through [nyvia.io](https://nyvia.io)**
 
