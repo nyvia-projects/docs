@@ -18,7 +18,7 @@ The project encompasses a sophisticated home network infrastructure integrated w
 
 - Personal portfolio
 - Freelance IT and Software services advertisement
-- Initially with with React.js, but now Next.js 13
+- Initially built with React.js, but now Next.js 13
 
 #### **Bringing [Techmetrica](https://techmetrica.org) to life**
 
